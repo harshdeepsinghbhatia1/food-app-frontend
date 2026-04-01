@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:58822/api";
+const BASE_URL = "https://food-app-backend-production-0739.up.railway.app/api";
 
 const defaultOptions: RequestInit = {
   credentials: "include",
